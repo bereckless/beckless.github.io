@@ -6,14 +6,14 @@ var lwi=-1;function thresholdPassed(){var w=$(window).width();var p=false;var cw
 $(document).ready(function() {
 r=function(){if(thresholdPassed()){dpi=window.devicePixelRatio;if($(window).width()>=1200){$('.js').attr('src', (dpi>1) ? 'images/nao-zibook-pro-346.png' : 'images/nao-zibook-pro-173.png');
 $('.js-2').attr('src', (dpi>1) ? 'images/fen-zu-12-142.png' : 'images/fen-zu-12-71.png');
-$('.js-3').attr('src', (dpi>1) ? 'images/fen-zu-12-142-2.png' : 'images/fen-zu-12-71-2.png');
-$('.js-4').attr('src', (dpi>1) ? 'images/fen-zu-12-142-3.png' : 'images/fen-zu-12-71-3.png');
-$('.js-5').attr('src', (dpi>1) ? 'images/fen-zu-12-142-4.png' : 'images/fen-zu-12-71-4.png');
+$('.js-3').attr('src', (dpi>1) ? 'images/fen-zu-12-142.png' : 'images/fen-zu-12-71.png');
+$('.js-4').attr('src', (dpi>1) ? 'images/fen-zu-12-142.png' : 'images/fen-zu-12-71.png');
+$('.js-5').attr('src', (dpi>1) ? 'images/fen-zu-12-142.png' : 'images/fen-zu-12-71.png');
 $('.js-6').attr('src', (dpi>1) ? 'images/fen-zu-2-copy-5-172.png' : 'images/fen-zu-2-copy-5-86.png');
-$('.js-7').attr('src', (dpi>1) ? 'images/fen-zu-12-142-5.png' : 'images/fen-zu-12-71-5.png');
-$('.js-8').attr('src', (dpi>1) ? 'images/fen-zu-12-142-6.png' : 'images/fen-zu-12-71-6.png');
+$('.js-7').attr('src', (dpi>1) ? 'images/fen-zu-12-142.png' : 'images/fen-zu-12-71.png');
+$('.js-8').attr('src', (dpi>1) ? 'images/fen-zu-12-142.png' : 'images/fen-zu-12-71.png');
 $('.js-9').attr('src', (dpi>1) ? 'images/fen-zu-3-58.png' : 'images/fen-zu-3-29.png');
-$('.js-10').attr('src', (dpi>1) ? 'images/fen-zu-6-302.png' : 'images/fen-zu-6-151.png');
+$('.js-10').attr('src', (dpi>1) ? 'images/fen-zu-6-302-1.png' : 'images/fen-zu-6-151-1.png');
 $('.js-11').attr('src', (dpi>1) ? 'images/fen-zu-7-302.png' : 'images/fen-zu-7-151.png');}else if($(window).width()>=960){$('.js').attr('src', (dpi>1) ? 'images/nao-zibook-pro-278.png' : 'images/nao-zibook-pro-139.png');
 $('.js-2').attr('src', (dpi>1) ? 'images/fen-zu-12-114.png' : 'images/fen-zu-12-57.png');
 $('.js-3').attr('src', (dpi>1) ? 'images/fen-zu-12-114.png' : 'images/fen-zu-12-57.png');
