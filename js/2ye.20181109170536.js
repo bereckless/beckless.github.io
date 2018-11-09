@@ -27,7 +27,7 @@ $('.js-63').attr('src', (dpi>1) ? 'images/fen-zu-6-128.png' : 'images/fen-zu-6-6
 $('.js-64').attr('src', (dpi>1) ? 'images/fen-zu-7-128.png' : 'images/fen-zu-7-64.png');
 $('.js-65').attr('src', (dpi>1) ? 'images/fen-zu-4-1434.png' : 'images/fen-zu-4-717.png');}else if($(window).width()>=480){$('.js-58').attr('src', (dpi>1) ? 'images/wo-578.png' : 'images/wo-289.png');
 $('.js-59').attr('src', (dpi>1) ? 'images/fen-zu-6-630.png' : 'images/fen-zu-6-315.png');
-$('.js-60').attr('src', (dpi>1) ? 'images/ju-xing-226.png' : 'images/ju-xing-113.png');
+$('.js-60').attr('src', (dpi>1) ? 'images/ju-xing-228.png' : 'images/ju-xing-114.png');
 $('.js-61').attr('src', (dpi>1) ? 'images/webwxgetmsgimg-186.jpg' : 'images/webwxgetmsgimg-93.jpg');
 $('.js-62').attr('src', (dpi>1) ? 'images/fen-zu-2-copy-5-68.png' : 'images/fen-zu-2-copy-5-34.png');
 $('.js-63').attr('src', (dpi>1) ? 'images/fen-zu-6-80.png' : 'images/fen-zu-6-40.png');
