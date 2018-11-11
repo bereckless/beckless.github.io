@@ -40,7 +40,7 @@ $('.js-432').attr('src', (dpi>1) ? 'images/zhi-xian-2-8-4.png' : 'images/zhi-xia
 $('.js-433').attr('src', (dpi>1) ? 'images/zhi-xian-3-1506-1.png' : 'images/zhi-xian-3-753-1.png');
 $('.js-434').attr('src', (dpi>1) ? 'images/fen-zu-6-900.png' : 'images/fen-zu-6-450.png');
 $('.js-435').attr('src', (dpi>1) ? 'images/fen-zu-6-128-1.png' : 'images/fen-zu-6-64-1.png');
-$('.js-436').attr('src', (dpi>1) ? 'images/fen-zu-7-128-1.png' : 'images/fen-zu-7-64-1.png');}else if($(window).width()>=480){$('.js-424').attr('src', (dpi>1) ? 'images/zhi-xian-2-6.png' : 'images/zhi-xian-2-3.png');
+$('.js-436').attr('src', (dpi>1) ? 'images/fen-zu-7-128-1.png' : 'images/fen-zu-7-64-1.png');}else if($(window).width()>=480){$('.js-424').attr('src', (dpi>1) ? 'images/zhi-xian-2-6-9.png' : 'images/zhi-xian-2-3-4.png');
 $('.js-425').attr('src', (dpi>1) ? 'images/ju-xing-copy-6pian-236.png' : 'images/ju-xing-copy-6pian-118.png');
 $('.js-426').attr('src', (dpi>1) ? 'images/wang-yu-mo4-644.jpg' : 'images/wang-yu-mo4-322.jpg');
 $('.js-427').attr('src', (dpi>1) ? 'images/wang-yu-mo1-484.jpg' : 'images/wang-yu-mo1-242.jpg');
@@ -48,8 +48,8 @@ $('.js-428').attr('src', (dpi>1) ? 'images/wang-yu-mo3-484.jpg' : 'images/wang-y
 $('.js-429').attr('src', (dpi>1) ? 'images/wang-yu-mo2-484.jpg' : 'images/wang-yu-mo2-242.jpg');
 $('.js-430').attr('src', (dpi>1) ? 'images/life-shopping-center-230.png' : 'images/life-shopping-center-115.png');
 $('.js-431').attr('src', (dpi>1) ? 'images/fen-zu-898.png' : 'images/fen-zu-449.png');
-$('.js-432').attr('src', (dpi>1) ? 'images/zhi-xian-2-6.png' : 'images/zhi-xian-2-3.png');
-$('.js-433').attr('src', (dpi>1) ? 'images/zhi-xian-3-942.png' : 'images/zhi-xian-3-471.png');
+$('.js-432').attr('src', (dpi>1) ? 'images/zhi-xian-2-6-10.png' : 'images/zhi-xian-2-3-5.png');
+$('.js-433').attr('src', (dpi>1) ? 'images/zhi-xian-3-942-1.png' : 'images/zhi-xian-3-471-1.png');
 $('.js-434').attr('src', (dpi>1) ? 'images/fen-zu-6-560.png' : 'images/fen-zu-6-280.png');
 $('.js-435').attr('src', (dpi>1) ? 'images/fen-zu-6-84-1.png' : 'images/fen-zu-6-42-1.png');
 $('.js-436').attr('src', (dpi>1) ? 'images/fen-zu-7-84-1.png' : 'images/fen-zu-7-42-1.png');}else{$('.js-424').attr('src', (dpi>1) ? 'images/zhi-xian-2-4-9.png' : 'images/zhi-xian-2-2-4.png');
